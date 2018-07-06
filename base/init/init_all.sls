@@ -1,0 +1,18 @@
+include:
+  - init.audit
+  - init.firewall
+  - init.ntp-client
+  - init.yum-repo
+  - init.dns
+  - init.history
+  - init.pkg-base
+  - init.sysctl
+  - init.tty-set
+  - init.limit
+  - init.thin
+  - init.user-www
+  - init.minion
+  - init.hosts
+  - init.ssh-auth
+  - init.zabbix-install
+  - init.zabbix-service
