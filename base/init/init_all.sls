@@ -16,3 +16,4 @@ include:
   - init.ssh-auth
   - init.zabbix-install
   - init.zabbix-service
+  - init.selinux
